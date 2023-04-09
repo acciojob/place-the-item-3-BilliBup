@@ -1,5 +1,5 @@
 .holder {
   display: flex;
-  flex-wrap: wrap; /* Allow items to wrap to the next row */
-  justify-content: space-between; /* Distribute items evenly along the row */
+  flex-wrap: wrap; 
+  justify-content: space-between; 
 }
